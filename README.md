@@ -14,3 +14,12 @@ install the required packages:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Start Jupyter Notebook from the repository root:
+
+```bash
+jupyter notebook
+```
+
+Open `notebook/Satish_Manvika_HW3.ipynb` and run all cells in order.
